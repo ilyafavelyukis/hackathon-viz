@@ -1,0 +1,571 @@
+{
+ "name": "Wells Fargo",
+ "children": [
+  {
+   "name": "SMB 2021", "value": "Impressions: 111,014,528, CTR: 0.17%, CTA: 2.91%,  Avg Time Spent: 27",
+   "children": [
+   {
+    "name": "Native Article", "value": "Impressions: 87,079,466, CTR: 0.13%, CTA: 1.14%, Avg Time Spent: 27",
+     "children": [
+                 {
+                  "name": "[Industry Insight] Small Business Owners: Are You Utilizing Digital Financial Tools to Help Get Ahead?",
+                  "value": "Impressions: 18,666,965, CTR: 0.15%, CTA: 2.29%, Avg Time Spent: 22",
+                  "children": [
+                        {"name": "4 Reasons Small Business Owners Should Be Using Digital Financial Tools ",
+                        "children": [{"name": "Impressions", "value": 1340587},{"name": "Clicks", "value": 2018},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 2233},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 47},{"name": "CTA Rate", "value": 2.10},{"name": "Time on Content", "value": 58589}]},
+                        {"name": "How Digital Financial Tools Can Help Small Business Owners ",
+                        "children": [{"name": "Impressions", "value": 2867695},{"name": "Clicks", "value": 3605},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 4005},{"name": "Avg. Time on Content", "value": 19},{"name": "CTA Clicks", "value": 106},{"name": "CTA Rate", "value": 2.65},{"name": "Time on Content", "value": 75838}]},
+                        {"name": "How Digital Financial Tools Can Help Strengthen Your Small Business ",
+                        "children": [{"name": "Impressions", "value": 1418779},{"name": "Clicks", "value": 2030},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 2294},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 46},{"name": "CTA Rate", "value": 2.01},{"name": "Time on Content", "value": 59064}]},
+                        {"name": "Monitoring Fraud, Building Your Brand and More: Discover the Benefits of Digital Tools For Small Businesses ",
+                        "children": [{"name": "Impressions", "value": 1805579},{"name": "Clicks", "value": 2497},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 2752},{"name": "Avg. Time on Content", "value": 20},{"name": "CTA Clicks", "value": 66},{"name": "CTA Rate", "value": 2.40},{"name": "Time on Content", "value": 55682}]},
+                        {"name": "See How This Small Business CEO Is Utilizing Digital Financial Tools to Help Get Ahead ",
+                        "children": [{"name": "Impressions", "value": 1295148},{"name": "Clicks", "value": 1931},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 2093},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 46},{"name": "CTA Rate", "value": 2.20},{"name": "Time on Content", "value": 52825}]},
+                        {"name": "See What This Expert Says About the Importance of Digital Financial Tools For Small Businesses ",
+                        "children": [{"name": "Impressions", "value": 2813764},{"name": "Clicks", "value": 3988},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 4262},{"name": "Avg. Time on Content", "value": 20},{"name": "CTA Clicks", "value": 105},{"name": "CTA Rate", "value": 2.46},{"name": "Time on Content", "value": 85015}]},
+                        {"name": "Small Business Owner and CEO on the Benefits of Digital Tools: See What She Says ",
+                        "children": [{"name": "Impressions", "value": 2550538},{"name": "Clicks", "value": 4354},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 4727},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 116},{"name": "CTA Rate", "value": 2.45},{"name": "Time on Content", "value": 115500}]},
+                        {"name": "Small Business Owners: Are You Utilizing Digital Financial Tools to Help Get Ahead? ",
+                        "children": [{"name": "Impressions", "value": 1666423},{"name": "Clicks", "value": 2292},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 2482},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 54},{"name": "CTA Rate", "value": 2.18},{"name": "Time on Content", "value": 53867}]},
+                        {"name": "Small Business Owners: Discover the Benefits of Using Digital Financial Tools ",
+                        "children": [{"name": "Impressions", "value": 1594023},{"name": "Clicks", "value": 2336},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 2578},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 48},{"name": "CTA Rate", "value": 1.86},{"name": "Time on Content", "value": 56293}]},
+                        {"name": "Small Businesses: Have You Assembled Your Digital Tools Suite to Help Get Ahead? ",
+                        "children": [{"name": "Impressions", "value": 1314429},{"name": "Clicks", "value": 2025},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 2211},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 45},{"name": "CTA Rate", "value": 2.04},{"name": "Time on Content", "value": 48725}]}
+                    ]
+                   },
+                   {
+                   "name": "4 Key Tips For Helping Your Small Business Stand Out From The Crowd",
+                   "value": "Impressions: 14,953,348, CTR: 0.13%, CTA: 0.98%, Avg Time Spent: 27",
+                   "children": [
+                        {"name": "4 Key Tips for Helping Your Small Business Stand Out From the Crowd ",
+                        "children": [{"name": "Impressions", "value": 1654300},{"name": "Clicks", "value": 2317},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 2434},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 14},{"name": "CTA Rate", "value": 0.58},{"name": "Time on Content", "value": 70549}]},
+                        {"name": "Are You Utilizing Customer Reviews to Help Get Ahead? This and Other Small Business Tips ",
+                        "children": [{"name": "Impressions", "value": 1569775},{"name": "Clicks", "value": 2032},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 2187},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 26},{"name": "CTA Rate", "value": 1.19},{"name": "Time on Content", "value": 50966}]},
+                        {"name": "Does Your Small Business Stand Out Amongst the Competition? 4 Steps to Help Get Ahead ",
+                        "children": [{"name": "Impressions", "value": 1654969},{"name": "Clicks", "value": 2134},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 2335},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 26},{"name": "CTA Rate", "value": 1.11},{"name": "Time on Content", "value": 63561}]},
+                        {"name": "Help Get Ahead and Stay Ahead of the Competition: How These Small Business Tips Can Help ",
+                        "children": [{"name": "Impressions", "value": 1425170},{"name": "Clicks", "value": 1801},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1914},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 13},{"name": "CTA Rate", "value": 0.68},{"name": "Time on Content", "value": 52310}]},
+                        {"name": "How Can I Help My Small Business Gain a Competitive Advantage? ",
+                        "children": [{"name": "Impressions", "value": 1549726},{"name": "Clicks", "value": 1952},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 2069},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 20},{"name": "CTA Rate", "value": 0.97},{"name": "Time on Content", "value": 61915}]},
+                        {"name": "How Small Businesses Can Gain a Competitive Edge ",
+                        "children": [{"name": "Impressions", "value": 1002584},{"name": "Clicks", "value": 1244},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1321},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 8},{"name": "CTA Rate", "value": 0.61},{"name": "Time on Content", "value": 28468}]},
+                        {"name": "How Small Businesses Can Start Edging Out the Competition ",
+                        "children": [{"name": "Impressions", "value": 1122198},{"name": "Clicks", "value": 1419},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1465},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 16},{"name": "CTA Rate", "value": 1.09},{"name": "Time on Content", "value": 35793}]},
+                        {"name": "Small Business Owners: 4 Tips to Help You Edge Out Your Competition ",
+                        "children": [{"name": "Impressions", "value": 1283939},{"name": "Clicks", "value": 1892},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 1971},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 19},{"name": "CTA Rate", "value": 0.96},{"name": "Time on Content", "value": 51808}]},
+                        {"name": "Small Business Owners: Help Stand Out Amongst the Competition With These Tips ",
+                        "children": [{"name": "Impressions", "value": 2096155},{"name": "Clicks", "value": 2873},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 3209},{"name": "Avg. Time on Content", "value": 32},{"name": "CTA Clicks", "value": 43},{"name": "CTA Rate", "value": 1.34},{"name": "Time on Content", "value": 101555}]},
+                        {"name": "What Makes Your Small Business Stand Out? See How These Tips Can Help ",
+                        "children": [{"name": "Impressions", "value": 1594532},{"name": "Clicks", "value": 2241},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 2394},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 24},{"name": "CTA Rate", "value": 1.00},{"name": "Time on Content", "value": 62221}]}
+                    ]
+                   },
+                   {
+                   "name": "Black Girl Group: Atlanta Entrepreneur Turns Adversity Into Opportunity with Black Girl Group",
+                   "value": "Impressions: 1,523,416, CTR: 0.18%, CTA: 1.21%,  Avg Time Spent: 52",
+                   "children": [
+                        {"name": "At the Center of This Atlanta-Based Creative Staffing Agency Is Empathy ",
+                        "children": [{"name": "Impressions", "value": 130449},{"name": "Clicks", "value": 164},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 185},{"name": "Avg. Time on Content", "value": 52},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.54},{"name": "Time on Content", "value": 9600}]},
+                        {"name": "Atlanta Entrepreneur Turns Adversity Into Opportunity with Black Girl Group ",
+                        "children": [{"name": "Impressions", "value": 132799},{"name": "Clicks", "value": 207},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 239},{"name": "Avg. Time on Content", "value": 41},{"name": "CTA Clicks", "value": 4},{"name": "CTA Rate", "value": 1.67},{"name": "Time on Content", "value": 9731}]},
+                        {"name": "Atlanta-Based Staffing Agency Black Girl Group Offers Black Women a Seat at the Table ",
+                        "children": [{"name": "Impressions", "value": 144530},{"name": "Clicks", "value": 361},{"name": "CTR", "value": 0.25},{"name": "Page Views", "value": 423},{"name": "Avg. Time on Content", "value": 53},{"name": "CTA Clicks", "value": 4},{"name": "CTA Rate", "value": 0.95},{"name": "Time on Content", "value": 22606}]},
+                        {"name": "How One Atlanta Entrepreneur Built the Business of Her Dreams ",
+                        "children": [{"name": "Impressions", "value": 164275},{"name": "Clicks", "value": 386},{"name": "CTR", "value": 0.23},{"name": "Page Views", "value": 479},{"name": "Avg. Time on Content", "value": 50},{"name": "CTA Clicks", "value": 6},{"name": "CTA Rate", "value": 1.25},{"name": "Time on Content", "value": 24098}]},
+                        {"name": "How One Atlanta Entrepreneur Started Black Girl Group to Expand Diversity Across Industries ",
+                        "children": [{"name": "Impressions", "value": 118711},{"name": "Clicks", "value": 199},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 259},{"name": "Avg. Time on Content", "value": 58},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 1.16},{"name": "Time on Content", "value": 15044}]},
+                        {"name": "Learn How One Atlanta Entrepreneur Shifted Priorities to Focus on Community During COVID ",
+                        "children": [{"name": "Impressions", "value": 117129},{"name": "Clicks", "value": 141},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 171},{"name": "Avg. Time on Content", "value": 60},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 1.17},{"name": "Time on Content", "value": 10298}]},
+                        {"name": "Stephanie Caudle Alston Created a Business Out of Her Passion for Providing Opportunities ",
+                        "children": [{"name": "Impressions", "value": 157516},{"name": "Clicks", "value": 255},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 278},{"name": "Avg. Time on Content", "value": 45},{"name": "CTA Clicks", "value": 6},{"name": "CTA Rate", "value": 2.16},{"name": "Time on Content", "value": 12527}]},
+                        {"name": "Stephanie Caudle Alston Created the Business of Her Dreams — Literally ",
+                        "children": [{"name": "Impressions", "value": 286406},{"name": "Clicks", "value": 591},{"name": "CTR", "value": 0.21},{"name": "Page Views", "value": 753},{"name": "Avg. Time on Content", "value": 51},{"name": "CTA Clicks", "value": 9},{"name": "CTA Rate", "value": 1.20},{"name": "Time on Content", "value": 38099}]},
+                        {"name": "This Atlanta Entrepreneur Grew Her Creative Staffing Agency From the Ground Up ",
+                        "children": [{"name": "Impressions", "value": 134013},{"name": "Clicks", "value": 234},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 260},{"name": "Avg. Time on Content", "value": 68},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 17587}]},
+                        {"name": "This Entrepreneur Found New Ways to Help Her Freelancers During COVID ",
+                        "children": [{"name": "Impressions", "value": 137588},{"name": "Clicks", "value": 260},{"name": "CTR", "value": 0.19},{"name": "Page Views", "value": 341},{"name": "Avg. Time on Content", "value": 51},{"name": "CTA Clicks", "value": 6},{"name": "CTA Rate", "value": 1.76},{"name": "Time on Content", "value": 17362}]}
+                    ]
+                   },
+                   {
+                   "name": "Cafecita Coffee: This Community-Focused Coffee Company Empowers Women Around the World",
+                   "value": "Impressions: 1,098,950, CTR: 0.14%, CTA: 1.67%,  Avg Time Spent: 36",
+                   "children":[
+                        {"name": "How One Entrepreneur Infused Her Passion for Social Justice to Start Cafecita Coffee in Los Angeles ",
+                        "children": [{"name": "Impressions", "value": 165433},{"name": "Clicks", "value": 206},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 244},{"name": "Avg. Time on Content", "value": 42},{"name": "CTA Clicks", "value": 7},{"name": "CTA Rate", "value": 2.87},{"name": "Time on Content", "value": 10252}]},
+                        {"name": "How One Woman Went From Human Rights Attorney to Coffee Entrepreneur ",
+                        "children": [{"name": "Impressions", "value": 140578},{"name": "Clicks", "value": 259},{"name": "CTR", "value": 0.18},{"name": "Page Views", "value": 314},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 9331}]},
+                        {"name": "Human Rights Attorney Turned Coffee Company Owners Shows Us What Really Fuels Her ",
+                        "children": [{"name": "Impressions", "value": 98252},{"name": "Clicks", "value": 150},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 171},{"name": "Avg. Time on Content", "value": 37},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 6353}]},
+                        {"name": "In a Male-Dominated Industry, Woman-Owned Cafecita Coffee in LA Stands Out ",
+                        "children": [{"name": "Impressions", "value": 112171},{"name": "Clicks", "value": 199},{"name": "CTR", "value": 0.18},{"name": "Page Views", "value": 231},{"name": "Avg. Time on Content", "value": 46},{"name": "CTA Clicks", "value": 8},{"name": "CTA Rate", "value": 3.46},{"name": "Time on Content", "value": 10591}]},
+                        {"name": "Natalie Webb Combines Her Passion for Coffee and Social Justice With Cafecita Coffee ",
+                        "children": [{"name": "Impressions", "value": 129150},{"name": "Clicks", "value": 165},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 175},{"name": "Avg. Time on Content", "value": 47},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 1.71},{"name": "Time on Content", "value": 8248}]},
+                        {"name": "This Community-Focused Coffee Company Empowers Women Around the World ",
+                        "children": [{"name": "Impressions", "value": 114468},{"name": "Clicks", "value": 131},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 144},{"name": "Avg. Time on Content", "value": 32},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 1.39},{"name": "Time on Content", "value": 4558}]},
+                        {"name": "This LA-Based Coffee Company Puts Community at the Forefront ",
+                        "children": [{"name": "Impressions", "value": 121348},{"name": "Clicks", "value": 170},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 215},{"name": "Avg. Time on Content", "value": 34},{"name": "CTA Clicks", "value": 5},{"name": "CTA Rate", "value": 2.33},{"name": "Time on Content", "value": 7358}]},
+                        {"name": "This LA-Based Coffee Company Supports Women’s Empowerment Along the Whole Supply Chain ",
+                        "children": [{"name": "Impressions", "value": 112903},{"name": "Clicks", "value": 128},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 158},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 5},{"name": "CTA Rate", "value": 3.16},{"name": "Time on Content", "value": 3656}]},
+                        {"name": "What Makes This LA-Based Coffee Company Different? Read the Story ",
+                        "children": [{"name": "Impressions", "value": 104647},{"name": "Clicks", "value": 134},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 148},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 3835}]}
+                    ]
+                   },
+                  {
+                   "name": "Digital Banking May Give You a Boost in 2021",
+                   "value": "Impressions: 13,421,926, CTR: 0.12%, CTA: 0.75%,  Avg Time Spent: 26",
+                   "children":[
+                        {"name": "4 Ways Digital Banking May Give Your Small Business a Boost in 2021 ",
+                        "children": [{"name": "Impressions", "value": 1199030},{"name": "Clicks", "value": 1654},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 1724},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 11},{"name": "CTA Rate", "value": 0.64},{"name": "Time on Content", "value": 47407}]},
+                        {"name": "Digital Banking May Give You a Boost in 2021 ",
+                        "children": [{"name": "Impressions", "value": 2584897},{"name": "Clicks", "value": 4050},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 4254},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 41},{"name": "CTA Rate", "value": 0.96},{"name": "Time on Content", "value": 128668}]},
+                        {"name": "Get a Boost in 2021: How Digital Banking Can Help Small Businesses ",
+                        "children": [{"name": "Impressions", "value": 1300013},{"name": "Clicks", "value": 1736},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1903},{"name": "Avg. Time on Content", "value": 21},{"name": "CTA Clicks", "value": 16},{"name": "CTA Rate", "value": 0.84},{"name": "Time on Content", "value": 40423}]},
+                        {"name": "How Digital Banking Can Help Small Businesses in 2021 ",
+                        "children": [{"name": "Impressions", "value": 1304344},{"name": "Clicks", "value": 1577},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1712},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 17},{"name": "CTA Rate", "value": 0.99},{"name": "Time on Content", "value": 39075}]},
+                        {"name": "How Predictive Technology and Other Digital Banking Features Can Help Small Business Owners ",
+                        "children": [{"name": "Impressions", "value": 1186773},{"name": "Clicks", "value": 1535},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1694},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 10},{"name": "CTA Rate", "value": 0.59},{"name": "Time on Content", "value": 42425}]},
+                        {"name": "How to Get the Most Out of Digital Banking for Your Small Business ",
+                        "children": [{"name": "Impressions", "value": 1021864},{"name": "Clicks", "value": 1325},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1375},{"name": "Avg. Time on Content", "value": 28},{"name": "CTA Clicks", "value": 7},{"name": "CTA Rate", "value": 0.51},{"name": "Time on Content", "value": 38145}]},
+                        {"name": "Managing Your Small Business in 2021: Why Digital Banking May Be Key ",
+                        "children": [{"name": "Impressions", "value": 961925},{"name": "Clicks", "value": 1269},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1346},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 7},{"name": "CTA Rate", "value": 0.52},{"name": "Time on Content", "value": 30443}]},
+                        {"name": "Small Business Owners: Are You Leveraging Digital Banking Solutions to Help Get Ahead? ",
+                        "children": [{"name": "Impressions", "value": 1363482},{"name": "Clicks", "value": 1820},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1955},{"name": "Avg. Time on Content", "value": 28},{"name": "CTA Clicks", "value": 10},{"name": "CTA Rate", "value": 0.51},{"name": "Time on Content", "value": 54079}]},
+                        {"name": "Small Business Owners: Discover the Benefits of Digital Banking ",
+                        "children": [{"name": "Impressions", "value": 1337045},{"name": "Clicks", "value": 1760},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1830},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 12},{"name": "CTA Rate", "value": 0.66},{"name": "Time on Content", "value": 43364}]},
+                        {"name": "Small Business Owners: Discover the Key Benefits of Digital Banking ",
+                        "children": [{"name": "Impressions", "value": 1162553},{"name": "Clicks", "value": 1557},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1644},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 13},{"name": "CTA Rate", "value": 0.79},{"name": "Time on Content", "value": 38015}]}
+                    ]
+                   },
+                  {
+                   "name": "Dynamic Article Page | Wells Fargo SMB",
+                   "value": "Impressions: 4,997,628, CTR: 0.10%, CTA: 0.16%,  Avg Time Spent: 22",
+                   "children":[
+                        {"name": "Celebrating Small Businesses: Explore Resources to Help Move Forward ",
+                        "children": [{"name": "Impressions", "value": 691767},{"name": "Clicks", "value": 616},{"name": "CTR", "value": 0.09},{"name": "Page Views", "value": 754},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 0.40},{"name": "Time on Content", "value": 18651}]},
+                        {"name": "Discover Helpful Tips and Advice For Small Business Owners ",
+                        "children": [{"name": "Impressions", "value": 646901},{"name": "Clicks", "value": 660},{"name": "CTR", "value": 0.10},{"name": "Page Views", "value": 721},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.14},{"name": "Time on Content", "value": 19435}]},
+                        {"name": "Explore Small Business Tips and Advice From Wells Fargo ",
+                        "children": [{"name": "Impressions", "value": 711335},{"name": "Clicks", "value": 693},{"name": "CTR", "value": 0.10},{"name": "Page Views", "value": 749},{"name": "Avg. Time on Content", "value": 21},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 15894}]},
+                        {"name": "Own a Small Business? Discover Helpful Advice to Keep Moving Forward ",
+                        "children": [{"name": "Impressions", "value": 741729},{"name": "Clicks", "value": 753},{"name": "CTR", "value": 0.10},{"name": "Page Views", "value": 858},{"name": "Avg. Time on Content", "value": 19},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.23},{"name": "Time on Content", "value": 16413}]},
+                        {"name": "See How Wells Fargo Is Helping Small Businesses [Explore Resources] ",
+                        "children": [{"name": "Impressions", "value": 769154},{"name": "Clicks", "value": 809},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 891},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.11},{"name": "Time on Content", "value": 20031}]},
+                        {"name": "Small Business Owners: Explore Topics to Help Grow ",
+                        "children": [{"name": "Impressions", "value": 1436742},{"name": "Clicks", "value": 1336},{"name": "CTR", "value": 0.09},{"name": "Page Views", "value": 1533},{"name": "Avg. Time on Content", "value": 20},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.13},{"name": "Time on Content", "value": 31253}]}
+                    ]
+                   },
+                  {
+                   "name": "Interactive Infographic - 5 professional relationships that can help boost your business",
+                   "value": "Impressions: 11,180,650, CTR: 0.13%, CTA: 0.54%,  Avg Time Spent: 25",
+                   "children":[
+                        {"name": "5 Consultants That Small Business Owners May Want to Work With ",
+                        "children": [{"name": "Impressions", "value": 1166895},{"name": "Clicks", "value": 1404},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1499},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 12},{"name": "CTA Rate", "value": 0.80},{"name": "Time on Content", "value": 38058}]},
+                        {"name": "5 Professional Relationships That Can Help Boost Your Business ",
+                        "children": [{"name": "Impressions", "value": 1249339},{"name": "Clicks", "value": 1661},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1758},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 13},{"name": "CTA Rate", "value": 0.74},{"name": "Time on Content", "value": 40485}]},
+                        {"name": "How These Third-Party Consultants Can Help Small Business Owners ",
+                        "children": [{"name": "Impressions", "value": 1071291},{"name": "Clicks", "value": 1288},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1373},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 10},{"name": "CTA Rate", "value": 0.73},{"name": "Time on Content", "value": 32003}]},
+                        {"name": "If You Own a Small Business, See How Building These Relationships Can Help ",
+                        "children": [{"name": "Impressions", "value": 874476},{"name": "Clicks", "value": 1064},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1126},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 7},{"name": "CTA Rate", "value": 0.62},{"name": "Time on Content", "value": 25490}]},
+                        {"name": "Learn How Small Business Owners May Benefit From Working With These 5 Consultants ",
+                        "children": [{"name": "Impressions", "value": 1258368},{"name": "Clicks", "value": 1620},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1747},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 9},{"name": "CTA Rate", "value": 0.52},{"name": "Time on Content", "value": 50604}]},
+                        {"name": "SBOs: 5 People You May Want to Consider Working With to Help Boost Success ",
+                        "children": [{"name": "Impressions", "value": 1161330},{"name": "Clicks", "value": 1722},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 1821},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 7},{"name": "CTA Rate", "value": 0.38},{"name": "Time on Content", "value": 45109}]},
+                        {"name": "SBOs: Tips to Help Maximize Your Relationship With These Professional Services ",
+                        "children": [{"name": "Impressions", "value": 976937},{"name": "Clicks", "value": 1405},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 1458},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 8},{"name": "CTA Rate", "value": 0.55},{"name": "Time on Content", "value": 35284}]},
+                        {"name": "See How Building a Relationship With These Professionals Can Help Boost Small Business Success ",
+                        "children": [{"name": "Impressions", "value": 1179874},{"name": "Clicks", "value": 1540},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1635},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 5},{"name": "CTA Rate", "value": 0.31},{"name": "Time on Content", "value": 37433}]},
+                        {"name": "Small Business Owners: Are You Working With These 5 Consultants? ",
+                        "children": [{"name": "Impressions", "value": 1121867},{"name": "Clicks", "value": 1356},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1447},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 10},{"name": "CTA Rate", "value": 0.69},{"name": "Time on Content", "value": 32061}]},
+                        {"name": "Small Business Owners: See How Building These Relationships Can Be Good For Growth ",
+                        "children": [{"name": "Impressions", "value": 1120273},{"name": "Clicks", "value": 1352},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1432},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.14},{"name": "Time on Content", "value": 40988}]}
+                    ]
+                   },
+                  {
+                   "name": "Matriarch Mercantile: How One Woman Opened Up a Successful Retail Shop...During the Pandemic",
+                   "value": "Impressions: 2,023,347, CTR: 0.15%, CTA: 1.29%,  Avg Time Spent: 48",
+                   "children":[
+                        {"name": "Everything in This Store Is Ethically & Consciously Made—And Adorable ",
+                        "children": [{"name": "Impressions", "value": 239256},{"name": "Clicks", "value": 365},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 435},{"name": "Avg. Time on Content", "value": 46},{"name": "CTA Clicks", "value": 5},{"name": "CTA Rate", "value": 1.15},{"name": "Time on Content", "value": 20175}]},
+                        {"name": "How One Woman Opened Up a Successful Retail Shop… During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 190181},{"name": "Clicks", "value": 309},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 356},{"name": "Avg. Time on Content", "value": 58},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 0.84},{"name": "Time on Content", "value": 20566}]},
+                        {"name": "How This Denver Entrepreneur Continues to Push Boundaries in the Retail Space ",
+                        "children": [{"name": "Impressions", "value": 153440},{"name": "Clicks", "value": 244},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 278},{"name": "Avg. Time on Content", "value": 47},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 12953}]},
+                        {"name": "How This Vietnamese American Woman Started and Grew Her Small Business and Brand ",
+                        "children": [{"name": "Impressions", "value": 200441},{"name": "Clicks", "value": 330},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 394},{"name": "Avg. Time on Content", "value": 43},{"name": "CTA Clicks", "value": 8},{"name": "CTA Rate", "value": 2.03},{"name": "Time on Content", "value": 16859}]},
+                        {"name": "Small Business Store Owner, Tran Wills Has Always Been Ahead of Her Time ",
+                        "children": [{"name": "Impressions", "value": 415043},{"name": "Clicks", "value": 595},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 743},{"name": "Avg. Time on Content", "value": 58},{"name": "CTA Clicks", "value": 8},{"name": "CTA Rate", "value": 1.08},{"name": "Time on Content", "value": 43304}]},
+                        {"name": "Supporting Diverse Women Is Part of This Retail Shop’s Ethos ",
+                        "children": [{"name": "Impressions", "value": 179047},{"name": "Clicks", "value": 213},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 242},{"name": "Avg. Time on Content", "value": 36},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.41},{"name": "Time on Content", "value": 8668}]},
+                        {"name": "The Pandemic Didn’t Stop This Denver Entrepreneur From Opening Up an Eclectic Retail Shop ",
+                        "children": [{"name": "Impressions", "value": 257587},{"name": "Clicks", "value": 420},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 496},{"name": "Avg. Time on Content", "value": 48},{"name": "CTA Clicks", "value": 11},{"name": "CTA Rate", "value": 2.22},{"name": "Time on Content", "value": 23841}]},
+                        {"name": "This Vietnamese American Woman Combines Art With Retail in Just the Right Way ",
+                        "children": [{"name": "Impressions", "value": 205682},{"name": "Clicks", "value": 312},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 359},{"name": "Avg. Time on Content", "value": 46},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 0.84},{"name": "Time on Content", "value": 16635}]},
+                        {"name": "Tran Willis Has Been Dominating Denver’s Art District for Years ",
+                        "children": [{"name": "Impressions", "value": 182670},{"name": "Clicks", "value": 245},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 269},{"name": "Avg. Time on Content", "value": 36},{"name": "CTA Clicks", "value": 7},{"name": "CTA Rate", "value": 2.60},{"name": "Time on Content", "value": 9587}]}
+                    ]
+                   },
+                  {
+                   "name": "Neuelane: How This Creative Agency Stepped Up For Its Community at the Height of the Pandemic",
+                   "value": "Impressions: 1,351,360, CTR: 0.11%, CTA: 1.14%,  Avg Time Spent: 32",
+                   "children":[
+                        {"name": "How One Agency in Miami Saw an Opportunity to Help the Community During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 162668},{"name": "Clicks", "value": 225},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 260},{"name": "Avg. Time on Content", "value": 49},{"name": "CTA Clicks", "value": 5},{"name": "CTA Rate", "value": 1.92},{"name": "Time on Content", "value": 12711}]},
+                        {"name": "How This Creative Agency Stepped Up for Its Community in Miami at the Height of the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 109637},{"name": "Clicks", "value": 123},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 142},{"name": "Avg. Time on Content", "value": 31},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 1.41},{"name": "Time on Content", "value": 4434}]},
+                        {"name": "Miami-Based Creative Agency neuelane Goes Above and Beyond, and It Shows ",
+                        "children": [{"name": "Impressions", "value": 133306},{"name": "Clicks", "value": 141},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 159},{"name": "Avg. Time on Content", "value": 40},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.63},{"name": "Time on Content", "value": 6361}]},
+                        {"name": "See What This Miami-Based Creative Agency Did for Its Community During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 132274},{"name": "Clicks", "value": 142},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 182},{"name": "Avg. Time on Content", "value": 21},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.55},{"name": "Time on Content", "value": 3855}]},
+                        {"name": "Small Business Profile: What One Creative Agency Did to Help the Community During Lockdown ",
+                        "children": [{"name": "Impressions", "value": 147355},{"name": "Clicks", "value": 158},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 181},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.55},{"name": "Time on Content", "value": 5198}]},
+                        {"name": "This Miami-Based Agency Saw the Pandemic as an Opportunity to Help Its Community ",
+                        "children": [{"name": "Impressions", "value": 204685},{"name": "Clicks", "value": 265},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 303},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.66},{"name": "Time on Content", "value": 9110}]},
+                        {"name": "This Miami-Based Creative Agency Assembled a Cookbook to Help the Restaurant Industry During COVID ",
+                        "children": [{"name": "Impressions", "value": 143900},{"name": "Clicks", "value": 179},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 214},{"name": "Avg. Time on Content", "value": 44},{"name": "CTA Clicks", "value": 5},{"name": "CTA Rate", "value": 2.34},{"name": "Time on Content", "value": 9352}]},
+                        {"name": "This Miami-Based Creative Agency Showcased Top Chefs to Help the Community During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 185644},{"name": "Clicks", "value": 172},{"name": "CTR", "value": 0.09},{"name": "Page Views", "value": 212},{"name": "Avg. Time on Content", "value": 19},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 1.42},{"name": "Time on Content", "value": 4085}]},
+                        {"name": "What One Miami-Based Small Business Did to Help the Restaurant Businesses During COVID-19 ",
+                        "children": [{"name": "Impressions", "value": 131891},{"name": "Clicks", "value": 142},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 184},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.54},{"name": "Time on Content", "value": 4574}]}
+                    ]
+                   },
+                  {
+                   "name": "SMB Canvas | Wells Fargo SMB",
+                   "value": "Impressions: 3,998,971, CTR: 0.12%, CTA: 0.29%,  Avg Time Spent: 32",
+                   "children":[
+                        {"name": "4 Inspiring Stories From Small Business Owners Across the Country ",
+                        "children": [{"name": "Impressions", "value": 274489},{"name": "Clicks", "value": 279},{"name": "CTR", "value": 0.10},{"name": "Page Views", "value": 335},{"name": "Avg. Time on Content", "value": 35},{"name": "CTA Clicks", "value": 3},{"name": "CTA Rate", "value": 0.90},{"name": "Time on Content", "value": 11798}]},
+                        {"name": "4 Inspiring Stories From Small Businesses Across the Country ",
+                        "children": [{"name": "Impressions", "value": 402858},{"name": "Clicks", "value": 527},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 596},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.17},{"name": "Time on Content", "value": 16140}]},
+                        {"name": "4 Small Businesses Across Various Industries Share Their Stories of Finding Solutions During Hard Times ",
+                        "children": [{"name": "Impressions", "value": 409709},{"name": "Clicks", "value": 499},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 565},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.35},{"name": "Time on Content", "value": 16348}]},
+                        {"name": "Celebrating Small Business Successes: 4 Inspiring Stories From Different Industries Across the Country ",
+                        "children": [{"name": "Impressions", "value": 319927},{"name": "Clicks", "value": 419},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 533},{"name": "Avg. Time on Content", "value": 36},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.38},{"name": "Time on Content", "value": 18953}]},
+                        {"name": "Celebrating Small Businesses: 4 Entrepreneurs That Overcame Challenges and Found Success ",
+                        "children": [{"name": "Impressions", "value": 398997},{"name": "Clicks", "value": 460},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 554},{"name": "Avg. Time on Content", "value": 34},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.18},{"name": "Time on Content", "value": 18989}]},
+                        {"name": "Despite Challenges, These 4 Small Business Owners Across the Country Found Success ",
+                        "children": [{"name": "Impressions", "value": 319465},{"name": "Clicks", "value": 399},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 457},{"name": "Avg. Time on Content", "value": 35},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.22},{"name": "Time on Content", "value": 16159}]},
+                        {"name": "How These 4 Small Businesses Achieved Success During Challenging Times ",
+                        "children": [{"name": "Impressions", "value": 718803},{"name": "Clicks", "value": 851},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 930},{"name": "Avg. Time on Content", "value": 36},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.22},{"name": "Time on Content", "value": 33586}]},
+                        {"name": "See How These 4 Small Businesses Survived and Thrived During a Challenging Year ",
+                        "children": [{"name": "Impressions", "value": 294151},{"name": "Clicks", "value": 331},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 392},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 2},{"name": "CTA Rate", "value": 0.51},{"name": "Time on Content", "value": 11490}]},
+                        {"name": "Small Business Owners: Discover Inspiration From These 4 Successful Entrepreneurs ",
+                        "children": [{"name": "Impressions", "value": 445160},{"name": "Clicks", "value": 538},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 595},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.17},{"name": "Time on Content", "value": 18119}]},
+                        {"name": "What Makes These 4 Small Businesses Successful? Read Their Stories ",
+                        "children": [{"name": "Impressions", "value": 415412},{"name": "Clicks", "value": 405},{"name": "CTR", "value": 0.10},{"name": "Page Views", "value": 493},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 1},{"name": "CTA Rate", "value": 0.20},{"name": "Time on Content", "value": 14678}]}
+                    ]
+                   },
+                  {
+                   "name": "Tackle Cash-Flow Complexities",
+                   "value": "Impressions: 13,815,032, CTR: 0.13%, CTA: 0.85%,  Avg Time Spent: 30",
+                   "children":[
+                        {"name": "5 Tips to Help Small Business Owners Streamline Cash Conversion Cycles ",
+                        "children": [{"name": "Impressions", "value": 1268995},{"name": "Clicks", "value": 1663},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1765},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 17},{"name": "CTA Rate", "value": 0.96},{"name": "Time on Content", "value": 42647}]},
+                        {"name": "5 Tips to Help Tackle Cash-Flow Complexities ",
+                        "children": [{"name": "Impressions", "value": 1747173},{"name": "Clicks", "value": 2161},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 2311},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 19},{"name": "CTA Rate", "value": 0.82},{"name": "Time on Content", "value": 55816}]},
+                        {"name": "5 Ways Small Business Owners Can Help Shorten Their Cash Conversion Cycles ",
+                        "children": [{"name": "Impressions", "value": 1151008},{"name": "Clicks", "value": 1666},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 1765},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 20},{"name": "CTA Rate", "value": 1.13},{"name": "Time on Content", "value": 45839}]},
+                        {"name": "Help Streamline Your Cash Conversion Cycle: 5 Tips for Small Business Owners ",
+                        "children": [{"name": "Impressions", "value": 1282571},{"name": "Clicks", "value": 1630},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1737},{"name": "Avg. Time on Content", "value": 28},{"name": "CTA Clicks", "value": 17},{"name": "CTA Rate", "value": 0.98},{"name": "Time on Content", "value": 48587}]},
+                        {"name": "How Small Businesses Can Help Gain Better Control Over Their Finances ",
+                        "children": [{"name": "Impressions", "value": 1234743},{"name": "Clicks", "value": 1459},{"name": "CTR", "value": 0.12},{"name": "Page Views", "value": 1589},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 15},{"name": "CTA Rate", "value": 0.94},{"name": "Time on Content", "value": 38313}]},
+                        {"name": "How Small Businesses Can Help Optimize Cash Flow in Today's World ",
+                        "children": [{"name": "Impressions", "value": 1798840},{"name": "Clicks", "value": 1991},{"name": "CTR", "value": 0.11},{"name": "Page Views", "value": 2136},{"name": "Avg. Time on Content", "value": 32},{"name": "CTA Clicks", "value": 12},{"name": "CTA Rate", "value": 0.56},{"name": "Time on Content", "value": 68672}]},
+                        {"name": "How to Help Optimize Cash Flow During Uncertain Times ",
+                        "children": [{"name": "Impressions", "value": 1659122},{"name": "Clicks", "value": 2527},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 2813},{"name": "Avg. Time on Content", "value": 52},{"name": "CTA Clicks", "value": 13},{"name": "CTA Rate", "value": 0.46},{"name": "Time on Content", "value": 147183}]},
+                        {"name": "Looking to Help Improve Cash Flow for Your Small Business? Start Here ",
+                        "children": [{"name": "Impressions", "value": 976527},{"name": "Clicks", "value": 1248},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1296},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 12},{"name": "CTA Rate", "value": 0.93},{"name": "Time on Content", "value": 31664}]},
+                        {"name": "Small Business Owners: 5 Tips to Help Improve Cash Flow ",
+                        "children": [{"name": "Impressions", "value": 1250490},{"name": "Clicks", "value": 1687},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 1810},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 19},{"name": "CTA Rate", "value": 1.05},{"name": "Time on Content", "value": 49354}]},
+                        {"name": "Small Business Owners: Have You Examined Cash Flow Complexities? ",
+                        "children": [{"name": "Impressions", "value": 1445563},{"name": "Clicks", "value": 1905},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 2054},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 20},{"name": "CTA Rate", "value": 0.97},{"name": "Time on Content", "value": 50683}]}
+                    ]
+                   }
+                   ]
+  },
+  {
+  "name": "Native Display", "value": "Impressions: 8,274,148, CTR: 0.00%, CTA: 0.00%,  Avg Time Spent: 0",
+     "children": [
+                 {
+                  "name": "WF MD SMB - Account Alerts CTX",
+                  "value": "Impressions: 1,509,836, CTR: 0.14%, CTA: 0.00%,  Avg Time Spent: 0",
+                  "children":[
+                        {"name": "Alerts help you track important ",
+                        "children": [{"name": "Impressions", "value": 309145},{"name": "Clicks", "value": 466},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get notified when business checks have been posted ",
+                        "children": [{"name": "Impressions", "value": 488310},{"name": "Clicks", "value": 693},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get the alerts you care about ",
+                        "children": [{"name": "Impressions", "value": 271709},{"name": "Clicks", "value": 358},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get the latest on your business account activity ",
+                        "children": [{"name": "Impressions", "value": 261305},{"name": "Clicks", "value": 335},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Stay informed with alerts for your small business ",
+                        "children": [{"name": "Impressions", "value": 280225},{"name": "Clicks", "value": 467},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Account Alerts RTG",
+                   "value": "Impressions: 24,932, CTR: 0.47%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Alerts help you track important ",
+                        "children": [{"name": "Impressions", "value": 2616},{"name": "Clicks", "value": 6},{"name": "CTR", "value": 0.23},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get notified when business checks have been posted ",
+                        "children": [{"name": "Impressions", "value": 8658},{"name": "Clicks", "value": 57},{"name": "CTR", "value": 0.66},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get the alerts you care about ",
+                        "children": [{"name": "Impressions", "value": 5645},{"name": "Clicks", "value": 31},{"name": "CTR", "value": 0.55},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get the latest on your business account activity ",
+                        "children": [{"name": "Impressions", "value": 1235},{"name": "Clicks", "value": 1},{"name": "CTR", "value": 0.08},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Stay informed with alerts for your small business ",
+                        "children": [{"name": "Impressions", "value": 6778},{"name": "Clicks", "value": 21},{"name": "CTR", "value": 0.31},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Local Banker CTX",
+                   "value": "Impressions: 1,867,924, CTR: 0.16%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Choose the bank that’s in your neighborhood. ",
+                        "children": [{"name": "Impressions", "value": 355725},{"name": "Clicks", "value": 578},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Convenient branch and ATM locations near you ",
+                        "children": [{"name": "Impressions", "value": 281717},{"name": "Clicks", "value": 430},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Small business banking in your neighborhood ",
+                        "children": [{"name": "Impressions", "value": 326984},{"name": "Clicks", "value": 524},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Small Business Banking near you ",
+                        "children": [{"name": "Impressions", "value": 277202},{"name": "Clicks", "value": 445},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Wells Fargo makes banking more convenient ",
+                        "children": [{"name": "Impressions", "value": 626296},{"name": "Clicks", "value": 1072},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Local Banker RTG",
+                   "value": "Impressions: 24,807, CTR: 0.59%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Choose the bank that’s in your neighborhood. ",
+                        "children": [{"name": "Impressions", "value": 5897},{"name": "Clicks", "value": 46},{"name": "CTR", "value": 0.78},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Convenient branch and ATM locations near you ",
+                        "children": [{"name": "Impressions", "value": 2295},{"name": "Clicks", "value": 5},{"name": "CTR", "value": 0.22},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Find a Wells Fargo branch or ATM in your neighborhood ",
+                        "children": [{"name": "Impressions", "value": 2966},{"name": "Clicks", "value": 42},{"name": "CTR", "value": 1.42},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Small business banking in your neighborhood ",
+                        "children": [{"name": "Impressions", "value": 4708},{"name": "Clicks", "value": 32},{"name": "CTR", "value": 0.68},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Small Business Banking near you ",
+                        "children": [{"name": "Impressions", "value": 7059},{"name": "Clicks", "value": 18},{"name": "CTR", "value": 0.25},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Wells Fargo makes banking more convenient ",
+                        "children": [{"name": "Impressions", "value": 1882},{"name": "Clicks", "value": 3},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Mobile Deposits CTX",
+                   "value": "Impressions: 1,488,688, CTR: 0.15%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Deposit business checks from almost anywhere ",
+                        "children": [{"name": "Impressions", "value": 210493},{"name": "Clicks", "value": 311},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Deposit business checks without missing a beat ",
+                        "children": [{"name": "Impressions", "value": 398434},{"name": "Clicks", "value": 665},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Deposit checks for your small business with our app ",
+                        "children": [{"name": "Impressions", "value": 364690},{"name": "Clicks", "value": 566},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Our app makes it easy to deposit business checks ",
+                        "children": [{"name": "Impressions", "value": 318101},{"name": "Clicks", "value": 436},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Point, tap, and deposit business checks ",
+                        "children": [{"name": "Impressions", "value": 196970},{"name": "Clicks", "value": 318},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Mobile Deposits RTG",
+                   "value": "Impressions: 25,140, CTR: 0.61%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Deposit business checks from almost anywhere ",
+                        "children": [{"name": "Impressions", "value": 5263},{"name": "Clicks", "value": 26},{"name": "CTR", "value": 0.49},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Deposit business checks from virtually anywhere with our app ",
+                        "children": [{"name": "Impressions", "value": 427},{"name": "Clicks", "value": 2},{"name": "CTR", "value": 0.47},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Deposit business checks without missing a beat ",
+                        "children": [{"name": "Impressions", "value": 3510},{"name": "Clicks", "value": 12},{"name": "CTR", "value": 0.34},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Deposit checks for your small business with our app ",
+                        "children": [{"name": "Impressions", "value": 5567},{"name": "Clicks", "value": 22},{"name": "CTR", "value": 0.40},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Our app makes it easy to deposit business checks ",
+                        "children": [{"name": "Impressions", "value": 1383},{"name": "Clicks", "value": 3},{"name": "CTR", "value": 0.22},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Point, tap, and deposit business checks ",
+                        "children": [{"name": "Impressions", "value": 8990},{"name": "Clicks", "value": 89},{"name": "CTR", "value": 0.99},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Relationship Banking CTX",
+                   "value": "Impressions: 1,597,988, CTR: 0.15%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Access local bankers for your small business ",
+                        "children": [{"name": "Impressions", "value": 336408},{"name": "Clicks", "value": 481},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get the support your small business deserves. ",
+                        "children": [{"name": "Impressions", "value": 328295},{"name": "Clicks", "value": 500},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Local bankers to support your small business ",
+                        "children": [{"name": "Impressions", "value": 553871},{"name": "Clicks", "value": 855},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Meet with a local banker who gets your business ",
+                        "children": [{"name": "Impressions", "value": 197504},{"name": "Clicks", "value": 297},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "We have small business banking solutions for you ",
+                        "children": [{"name": "Impressions", "value": 181910},{"name": "Clicks", "value": 305},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB - Relationship Banking RTG",
+                   "value": "Impressions: 24,761, CTR: 0.63%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Access local bankers for your small business ",
+                        "children": [{"name": "Impressions", "value": 3519},{"name": "Clicks", "value": 12},{"name": "CTR", "value": 0.34},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get the support your small business deserves. ",
+                        "children": [{"name": "Impressions", "value": 1194},{"name": "Clicks", "value": 2},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Local bankers can help you with your small business banking ",
+                        "children": [{"name": "Impressions", "value": 1159},{"name": "Clicks", "value": 17},{"name": "CTR", "value": 1.47},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Local bankers to support your small business ",
+                        "children": [{"name": "Impressions", "value": 6761},{"name": "Clicks", "value": 23},{"name": "CTR", "value": 0.34},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Meet with a local banker who gets your business ",
+                        "children": [{"name": "Impressions", "value": 7451},{"name": "Clicks", "value": 55},{"name": "CTR", "value": 0.74},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "We have small business banking solutions for you ",
+                        "children": [{"name": "Impressions", "value": 1578},{"name": "Clicks", "value": 3},{"name": "CTR", "value": 0.19},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Wells Fargo local bankers understand your small business ",
+                        "children": [{"name": "Impressions", "value": 3099},{"name": "Clicks", "value": 44},{"name": "CTR", "value": 1.42},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB -Zelle® CTX",
+                   "value": "Impressions: 1,690,619, CTR: 0.15%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Get paid quickly with Zelle® for your business ",
+                        "children": [{"name": "Impressions", "value": 374599},{"name": "Clicks", "value": 507},{"name": "CTR", "value": 0.14},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get paid with Zelle® ",
+                        "children": [{"name": "Impressions", "value": 184532},{"name": "Clicks", "value": 299},{"name": "CTR", "value": 0.16},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Getting paid just got easier with Zelle® ",
+                        "children": [{"name": "Impressions", "value": 574308},{"name": "Clicks", "value": 1000},{"name": "CTR", "value": 0.17},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Zelle® helps keep money moving ",
+                        "children": [{"name": "Impressions", "value": 368725},{"name": "Clicks", "value": 555},{"name": "CTR", "value": 0.15},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Zelle® helps keep your money moving ",
+                        "children": [{"name": "Impressions", "value": 188455},{"name": "Clicks", "value": 244},{"name": "CTR", "value": 0.13},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   },
+                   {
+                   "name": "WF MD SMB -Zelle® RTG",
+                   "value": "Impressions: 19,453, CTR: 0.48%, CTA: 0.00%,  Avg Time Spent: 0",
+                   "children":[
+                        {"name": "Get paid quickly with Zelle® for your business ",
+                        "children": [{"name": "Impressions", "value": 771},{"name": "Clicks", "value": 3},{"name": "CTR", "value": 0.39},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Get paid with Zelle® ",
+                        "children": [{"name": "Impressions", "value": 3119},{"name": "Clicks", "value": 14},{"name": "CTR", "value": 0.45},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Getting paid just got easier with Zelle® ",
+                        "children": [{"name": "Impressions", "value": 9713},{"name": "Clicks", "value": 54},{"name": "CTR", "value": 0.56},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Zelle® helps keep money moving ",
+                        "children": [{"name": "Impressions", "value": 3989},{"name": "Clicks", "value": 15},{"name": "CTR", "value": 0.38},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]},
+                        {"name": "Zelle® helps keep your money moving ",
+                        "children": [{"name": "Impressions", "value": 1861},{"name": "Clicks", "value": 7},{"name": "CTR", "value": 0.38},{"name": "Page Views", "value": 0},{"name": "Avg. Time on Content", "value": 0},{"name": "CTA Clicks", "value": 0},{"name": "CTA Rate", "value": 0.00},{"name": "Time on Content", "value": 0}]}
+                    ]
+                   }
+                   ]
+    },
+    {
+    "name": "Story", "value": "Impressions: 15,446,653, CTR: 0.40%, CTA: 6.50%,  Avg Time Spent: 26",
+    "children": [
+                {
+                 "name": "Black Girl Group_WF SMB_Native Story",
+                 "value": "Impressions: 4,119,649, CTR: 0.57%, CTA: 7.65%,  Avg Time Spent: 33",
+                   "children":[
+                        {"name": "At the Center of This Atlanta-Based Creative Staffing Agency Is Empathy ",
+                        "children": [{"name": "Impressions", "value": 493530},{"name": "Clicks", "value": 2314},{"name": "CTR", "value": 0.47},{"name": "Page Views", "value": 2314},{"name": "Avg. Time on Content", "value": 31},{"name": "CTA Clicks", "value": 165},{"name": "CTA Rate", "value": 7.13},{"name": "Time on Content", "value": 70949}]},
+                        {"name": "Atlanta Entrepreneur Turns Adversity Into Opportunity with Black Girl Group ",
+                        "children": [{"name": "Impressions", "value": 407472},{"name": "Clicks", "value": 2264},{"name": "CTR", "value": 0.56},{"name": "Page Views", "value": 2264},{"name": "Avg. Time on Content", "value": 32},{"name": "CTA Clicks", "value": 168},{"name": "CTA Rate", "value": 7.42},{"name": "Time on Content", "value": 73372}]},
+                        {"name": "Atlanta-Based Staffing Agency Black Girl Group Offers Black Women a Seat at the Table ",
+                        "children": [{"name": "Impressions", "value": 1268533},{"name": "Clicks", "value": 8296},{"name": "CTR", "value": 0.65},{"name": "Page Views", "value": 8296},{"name": "Avg. Time on Content", "value": 36},{"name": "CTA Clicks", "value": 690},{"name": "CTA Rate", "value": 8.32},{"name": "Time on Content", "value": 297309}]},
+                        {"name": "How One Atlanta Entrepreneur Built the Business of Her Dreams ",
+                        "children": [{"name": "Impressions", "value": 541773},{"name": "Clicks", "value": 3185},{"name": "CTR", "value": 0.59},{"name": "Page Views", "value": 3185},{"name": "Avg. Time on Content", "value": 35},{"name": "CTA Clicks", "value": 266},{"name": "CTA Rate", "value": 8.35},{"name": "Time on Content", "value": 109942}]},
+                        {"name": "How One Atlanta Entrepreneur Started Black Girl Group to Expand Diversity Across Industries ",
+                        "children": [{"name": "Impressions", "value": 428699},{"name": "Clicks", "value": 2335},{"name": "CTR", "value": 0.54},{"name": "Page Views", "value": 2335},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 146},{"name": "CTA Rate", "value": 6.25},{"name": "Time on Content", "value": 68852}]},
+                        {"name": "Stephanie Caudle Alston Created a Business Out of Her Passion for Providing Opportunities ",
+                        "children": [{"name": "Impressions", "value": 421544},{"name": "Clicks", "value": 2072},{"name": "CTR", "value": 0.49},{"name": "Page Views", "value": 2073},{"name": "Avg. Time on Content", "value": 30},{"name": "CTA Clicks", "value": 134},{"name": "CTA Rate", "value": 6.46},{"name": "Time on Content", "value": 62600}]},
+                        {"name": "This Atlanta Entrepreneur Grew Her Creative Staffing Agency From the Ground Up ",
+                        "children": [{"name": "Impressions", "value": 671501},{"name": "Clicks", "value": 3439},{"name": "CTR", "value": 0.51},{"name": "Page Views", "value": 3439},{"name": "Avg. Time on Content", "value": 32},{"name": "CTA Clicks", "value": 250},{"name": "CTA Rate", "value": 7.27},{"name": "Time on Content", "value": 111594}]}
+                      ]
+                  },
+                  {
+                  "name": "Cafecita Coffee_WF SMB_Native Story",
+                  "value": "Impressions: 1,801,611, CTR: 0.49%, CTA: 6.59%,  Avg Time Spent: 26",
+                   "children":[
+                        {"name": "How One Entrepreneur Infused Her Passion for Social Justice to Start Cafecita Coffee in Los Angeles ",
+                        "children": [{"name": "Impressions", "value": 198015},{"name": "Clicks", "value": 1100},{"name": "CTR", "value": 0.56},{"name": "Page Views", "value": 1100},{"name": "Avg. Time on Content", "value": 28},{"name": "CTA Clicks", "value": 73},{"name": "CTA Rate", "value": 6.64},{"name": "Time on Content", "value": 31113}]},
+                        {"name": "How One Woman Went From Human Rights Attorney to Coffee Entrepreneur ",
+                        "children": [{"name": "Impressions", "value": 205904},{"name": "Clicks", "value": 1051},{"name": "CTR", "value": 0.51},{"name": "Page Views", "value": 1051},{"name": "Avg. Time on Content", "value": 28},{"name": "CTA Clicks", "value": 71},{"name": "CTA Rate", "value": 6.76},{"name": "Time on Content", "value": 29196}]},
+                        {"name": "Human Rights Attorney Turned Coffee Company Owners Shows Us What Really Fuels Her ",
+                        "children": [{"name": "Impressions", "value": 189046},{"name": "Clicks", "value": 1097},{"name": "CTR", "value": 0.58},{"name": "Page Views", "value": 1097},{"name": "Avg. Time on Content", "value": 29},{"name": "CTA Clicks", "value": 99},{"name": "CTA Rate", "value": 9.02},{"name": "Time on Content", "value": 32167}]},
+                        {"name": "In a Male-Dominated Industry, Woman-Owned Cafecita Coffee in LA Stands Out ",
+                        "children": [{"name": "Impressions", "value": 271702},{"name": "Clicks", "value": 1312},{"name": "CTR", "value": 0.48},{"name": "Page Views", "value": 1313},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 97},{"name": "CTA Rate", "value": 7.39},{"name": "Time on Content", "value": 34682}]},
+                        {"name": "Natalie Webb Combines Her Passion for Coffee and Social Justice With Cafecita Coffee ",
+                        "children": [{"name": "Impressions", "value": 151071},{"name": "Clicks", "value": 682},{"name": "CTR", "value": 0.45},{"name": "Page Views", "value": 682},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 30},{"name": "CTA Rate", "value": 4.40},{"name": "Time on Content", "value": 15444}]},
+                        {"name": "This Community-Focused Coffee Company Empowers Women Around the World ",
+                        "children": [{"name": "Impressions", "value": 332420},{"name": "Clicks", "value": 1544},{"name": "CTR", "value": 0.46},{"name": "Page Views", "value": 1544},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 92},{"name": "CTA Rate", "value": 5.96},{"name": "Time on Content", "value": 40795}]},
+                        {"name": "This LA-Based Coffee Company Puts Community at the Forefront ",
+                        "children": [{"name": "Impressions", "value": 145862},{"name": "Clicks", "value": 630},{"name": "CTR", "value": 0.43},{"name": "Page Views", "value": 630},{"name": "Avg. Time on Content", "value": 20},{"name": "CTA Clicks", "value": 39},{"name": "CTA Rate", "value": 6.19},{"name": "Time on Content", "value": 12839}]},
+                        {"name": "This LA-Based Coffee Company Supports Women’s Empowerment Along the Whole Supply Chain ",
+                        "children": [{"name": "Impressions", "value": 102157},{"name": "Clicks", "value": 446},{"name": "CTR", "value": 0.44},{"name": "Page Views", "value": 446},{"name": "Avg. Time on Content", "value": 20},{"name": "CTA Clicks", "value": 26},{"name": "CTA Rate", "value": 5.83},{"name": "Time on Content", "value": 9129}]},
+                        {"name": "What Makes This LA-Based Coffee Company Different? Read the Story ",
+                        "children": [{"name": "Impressions", "value": 205434},{"name": "Clicks", "value": 967},{"name": "CTR", "value": 0.47},{"name": "Page Views", "value": 967},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 55},{"name": "CTA Rate", "value": 5.69},{"name": "Time on Content", "value": 24022}]}
+                    ]
+                  },
+                  {
+                  "name": "Home Reno Native Story",
+                  "value": "Impressions: 5,806,020, CTR: 0.20%, CTA: 4.54%,  Avg Time Spent: 13",
+                   "children":[
+                        {"name": "Deposit business checks from almost anywhere ",
+                        "children": [{"name": "Impressions", "value": 1199181},{"name": "Clicks", "value": 2460},{"name": "CTR", "value": 0.21},{"name": "Page Views", "value": 2465},{"name": "Avg. Time on Content", "value": 13},{"name": "CTA Clicks", "value": 118},{"name": "CTA Rate", "value": 4.79},{"name": "Time on Content", "value": 32836}]},
+                        {"name": "Deposit business checks without missing a beat ",
+                        "children": [{"name": "Impressions", "value": 1143910},{"name": "Clicks", "value": 2379},{"name": "CTR", "value": 0.21},{"name": "Page Views", "value": 2385},{"name": "Avg. Time on Content", "value": 12},{"name": "CTA Clicks", "value": 106},{"name": "CTA Rate", "value": 4.44},{"name": "Time on Content", "value": 27915}]},
+                        {"name": "Deposit checks for your small business with our app ",
+                        "children": [{"name": "Impressions", "value": 1180725},{"name": "Clicks", "value": 2421},{"name": "CTR", "value": 0.21},{"name": "Page Views", "value": 2421},{"name": "Avg. Time on Content", "value": 13},{"name": "CTA Clicks", "value": 107},{"name": "CTA Rate", "value": 4.42},{"name": "Time on Content", "value": 31494}]},
+                        {"name": "Our app makes it easy to deposit business checks ",
+                        "children": [{"name": "Impressions", "value": 1122626},{"name": "Clicks", "value": 2345},{"name": "CTR", "value": 0.21},{"name": "Page Views", "value": 2348},{"name": "Avg. Time on Content", "value": 13},{"name": "CTA Clicks", "value": 105},{"name": "CTA Rate", "value": 4.47},{"name": "Time on Content", "value": 30252}]},
+                        {"name": "Point, tap, and deposit business checks ",
+                        "children": [{"name": "Impressions", "value": 1159578},{"name": "Clicks", "value": 2297},{"name": "CTR", "value": 0.20},{"name": "Page Views", "value": 2303},{"name": "Avg. Time on Content", "value": 14},{"name": "CTA Clicks", "value": 105},{"name": "CTA Rate", "value": 4.56},{"name": "Time on Content", "value": 31852}]}
+                    ]
+                  },
+                  {
+                  "name": "Matriarch Mercantile_WF SMB_Native Story",
+                  "value": "Impressions: 2,357,410, CTR: 0.50%, CTA: 6.53%,  Avg Time Spent: 26",
+                   "children":[
+                        {"name": "Everything in This Store Is Ethically & Consciously Made—And Adorable ",
+                        "children": [{"name": "Impressions", "value": 294132},{"name": "Clicks", "value": 1545},{"name": "CTR", "value": 0.53},{"name": "Page Views", "value": 1545},{"name": "Avg. Time on Content", "value": 28},{"name": "CTA Clicks", "value": 100},{"name": "CTA Rate", "value": 6.47},{"name": "Time on Content", "value": 42524}]},
+                        {"name": "How One Woman Opened Up a Successful Retail Shop… During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 349677},{"name": "Clicks", "value": 1841},{"name": "CTR", "value": 0.53},{"name": "Page Views", "value": 1841},{"name": "Avg. Time on Content", "value": 31},{"name": "CTA Clicks", "value": 138},{"name": "CTA Rate", "value": 7.50},{"name": "Time on Content", "value": 56612}]},
+                        {"name": "How This Denver Entrepreneur Continues to Push Boundaries in the Retail Space ",
+                        "children": [{"name": "Impressions", "value": 464862},{"name": "Clicks", "value": 2292},{"name": "CTR", "value": 0.49},{"name": "Page Views", "value": 2293},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 160},{"name": "CTA Rate", "value": 6.98},{"name": "Time on Content", "value": 62597}]},
+                        {"name": "How This Vietnamese American Woman Started and Grew Her Small Business and Brand ",
+                        "children": [{"name": "Impressions", "value": 177389},{"name": "Clicks", "value": 820},{"name": "CTR", "value": 0.46},{"name": "Page Views", "value": 820},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 50},{"name": "CTA Rate", "value": 6.10},{"name": "Time on Content", "value": 19028}]},
+                        {"name": "Small Business Store Owner, Tran Wills Has Always Been Ahead of Her Time ",
+                        "children": [{"name": "Impressions", "value": 135048},{"name": "Clicks", "value": 594},{"name": "CTR", "value": 0.44},{"name": "Page Views", "value": 595},{"name": "Avg. Time on Content", "value": 21},{"name": "CTA Clicks", "value": 39},{"name": "CTA Rate", "value": 6.55},{"name": "Time on Content", "value": 12664}]},
+                        {"name": "Supporting Diverse Women Is Part of This Retail Shop’s Ethos ",
+                        "children": [{"name": "Impressions", "value": 199981},{"name": "Clicks", "value": 959},{"name": "CTR", "value": 0.48},{"name": "Page Views", "value": 959},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 60},{"name": "CTA Rate", "value": 6.26},{"name": "Time on Content", "value": 23603}]},
+                        {"name": "The Pandemic Didn’t Stop This Denver Entrepreneur From Opening Up an Eclectic Retail Shop ",
+                        "children": [{"name": "Impressions", "value": 339194},{"name": "Clicks", "value": 1894},{"name": "CTR", "value": 0.56},{"name": "Page Views", "value": 1894},{"name": "Avg. Time on Content", "value": 26},{"name": "CTA Clicks", "value": 114},{"name": "CTA Rate", "value": 6.02},{"name": "Time on Content", "value": 48420}]},
+                        {"name": "This Vietnamese American Woman Combines Art With Retail in Just the Right Way ",
+                        "children": [{"name": "Impressions", "value": 202452},{"name": "Clicks", "value": 948},{"name": "CTR", "value": 0.47},{"name": "Page Views", "value": 948},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 53},{"name": "CTA Rate", "value": 5.59},{"name": "Time on Content", "value": 23789}]},
+                        {"name": "Tran Wills Has Been Dominating Denver’s Art District for Years ",
+                        "children": [{"name": "Impressions", "value": 194675},{"name": "Clicks", "value": 896},{"name": "CTR", "value": 0.46},{"name": "Page Views", "value": 896},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 56},{"name": "CTA Rate", "value": 6.25},{"name": "Time on Content", "value": 22147}]}
+                    ]
+                  },
+                  {
+                  "name": "neuelane_WF SMB_Native Story",
+                  "value": "Impressions: 1,361,963, CTR: 0.45%, CTA: 5.70%,  Avg Time Spent: 24",
+                   "children":[
+                       {"name": "How One Agency in Miami Saw an Opportunity to Help the Community During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 118290},{"name": "Clicks", "value": 513},{"name": "CTR", "value": 0.43},{"name": "Page Views", "value": 513},{"name": "Avg. Time on Content", "value": 24},{"name": "CTA Clicks", "value": 35},{"name": "CTA Rate", "value": 6.82},{"name": "Time on Content", "value": 12335}]},
+                        {"name": "How This Creative Agency Stepped Up for Its Community in Miami at the Height of the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 172462},{"name": "Clicks", "value": 796},{"name": "CTR", "value": 0.46},{"name": "Page Views", "value": 796},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 40},{"name": "CTA Rate", "value": 5.03},{"name": "Time on Content", "value": 17731}]},
+                        {"name": "Miami-Based Creative Agency neuelane Goes Above and Beyond, and It Shows ",
+                        "children": [{"name": "Impressions", "value": 99568},{"name": "Clicks", "value": 421},{"name": "CTR", "value": 0.42},{"name": "Page Views", "value": 421},{"name": "Avg. Time on Content", "value": 25},{"name": "CTA Clicks", "value": 22},{"name": "CTA Rate", "value": 5.23},{"name": "Time on Content", "value": 10521}]},
+                        {"name": "See What This Miami-Based Creative Agency Did for Its Community During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 122493},{"name": "Clicks", "value": 535},{"name": "CTR", "value": 0.44},{"name": "Page Views", "value": 535},{"name": "Avg. Time on Content", "value": 22},{"name": "CTA Clicks", "value": 26},{"name": "CTA Rate", "value": 4.86},{"name": "Time on Content", "value": 11573}]},
+                        {"name": "Small Business Profile: What One Creative Agency Did to Help the Community During Lockdown ",
+                        "children": [{"name": "Impressions", "value": 144492},{"name": "Clicks", "value": 683},{"name": "CTR", "value": 0.47},{"name": "Page Views", "value": 683},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 30},{"name": "CTA Rate", "value": 4.39},{"name": "Time on Content", "value": 15953}]},
+                        {"name": "This Miami-Based Agency Saw the Pandemic as an Opportunity to Help Its Community ",
+                        "children": [{"name": "Impressions", "value": 272258},{"name": "Clicks", "value": 1104},{"name": "CTR", "value": 0.41},{"name": "Page Views", "value": 1104},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 63},{"name": "CTA Rate", "value": 5.71},{"name": "Time on Content", "value": 25837}]},
+                        {"name": "This Miami-Based Creative Agency Assembled a Cookbook to Help the Restaurant Industry During COVID ",
+                        "children": [{"name": "Impressions", "value": 147990},{"name": "Clicks", "value": 741},{"name": "CTR", "value": 0.50},{"name": "Page Views", "value": 741},{"name": "Avg. Time on Content", "value": 27},{"name": "CTA Clicks", "value": 42},{"name": "CTA Rate", "value": 5.67},{"name": "Time on Content", "value": 20073}]},
+                        {"name": "This Miami-Based Creative Agency Showcased Top Chefs to Help the Community During the Pandemic ",
+                        "children": [{"name": "Impressions", "value": 167521},{"name": "Clicks", "value": 763},{"name": "CTR", "value": 0.46},{"name": "Page Views", "value": 763},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 48},{"name": "CTA Rate", "value": 6.29},{"name": "Time on Content", "value": 17669}]},
+                        {"name": "What One Miami-Based Small Business Did to Help the Restaurant Businesses During COVID-19 ",
+                        "children": [{"name": "Impressions", "value": 116889},{"name": "Clicks", "value": 548},{"name": "CTR", "value": 0.47},{"name": "Page Views", "value": 548},{"name": "Avg. Time on Content", "value": 23},{"name": "CTA Clicks", "value": 42},{"name": "CTA Rate", "value": 7.66},{"name": "Time on Content", "value": 12545}]}
+                    ]
+                  }
+                  ]
+    }
+  ]}]}
+
